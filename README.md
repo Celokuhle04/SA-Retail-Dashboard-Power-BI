@@ -5,7 +5,7 @@ Interactive Power BI dashboard analysing South African brick-and-mortar retail t
 ## 📊 Dashboard Overview
 ![Dashboard Preview](files/dashboard.png)
 
-[Download PDF](files/dashboard.pdf) | [Download PBIX](files/SA_Business_Performance_Dashboard.pbix)
+[Download PDF](files/SA_Business_Performance_Dashboard.pdf) | [Download PBIX](files/SA_Business_Performance_Dashboard.pbix)
 
 This project analyses brick-and-mortar retail trade to uncover trends, seasonality, and performance across dealer types.
 
