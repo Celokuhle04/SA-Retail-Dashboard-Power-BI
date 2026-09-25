@@ -41,10 +41,6 @@ Engineered key performance metrics to benchmark category growth. Key measures in
 - Steady 2-7% growth 2010-2019, -6% crash in 2020 (COVID lockdowns), recovery from 2021.
 - Strong December seasonality every year.
 
-* *Total Value Trajectory:* The broader brick-and-mortar retail economy reached a core benchmark value of *77M (R million)* across the studied performance window.
-* *Market Share Leaders:* The *General dealers* category acts as the primary volume driver in the sector (tracking at *34.0M), followed closely by *Clothing & Footwear and Other Retail.
-* *Seasonality Factors:* The monthly retail sales trend visual explicitly exposes consistent cyclical peaks occurring regularly at key seasonal points throughout the annual timeline.
-
 ## 📂 Files
 - SA_Business_Performance_Dashboard.pbix - Power BI file
 - dashboard.pdf - PDF
