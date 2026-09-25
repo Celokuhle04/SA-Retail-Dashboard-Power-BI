@@ -1,4 +1,4 @@
-# 🇿🇦 SA Retail Performance Dashboard - Power BI
+# SA Retail Performance Dashboard - Power BI
 
 Interactive Power BI dashboard analysing South African brick-and-mortar retail trends (2005-2025) from Stats SA P6242.1.
 
