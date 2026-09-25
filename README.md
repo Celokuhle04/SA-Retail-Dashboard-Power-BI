@@ -7,7 +7,7 @@ Interactive Power BI dashboard analysing South African brick-and-mortar retail t
 
 This project analyses brick-and-mortar retail trade to uncover trends, seasonality, and performance across dealer types.
 
-*Visuals:*
+**Visuals:**
 - *Total Sales (77M) KPI* - Total brick-and-mortar sales (R million) | Filter: Excluded 2026 (incomplete year)
 - *Total Sales by Dealer Type* - General dealers (34.0M) dominate, followed by Clothing & Footwear | Filter: Excluded 2026
 - *Annual Sales Growth (%)* - YoY growth 2010-2025 showing COVID -6% drop in 2020 | Filters: Excluded 2005-2009 (early data inconsistent for YoY calculation) + 2026
