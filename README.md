@@ -27,15 +27,6 @@ This project analyses brick-and-mortar retail trade to uncover trends, seasonali
 - DAX: Total Sales (R million), YoY Growth %
 - Page-level filter: Exclude 2026 (incomplete). Visual-level filter on Annual Growth to exclude 2005-2009 to ensure accurate YoY calculation.
 
-### 1. Data Transformation (Power Query)
-* *Data Cleaning:* Structured raw Stats SA P6242.1 retail datasets by fixing data types, removing trailing null headers, and resolving date alignment anomalies.
-* *Date Dimension:* Modeled a customized, contiguous Calendar Table to power complex time-intelligence analytics.
-
-### 2. Analytical Calculations (DAX Metrics)
-Engineered key performance metrics to benchmark category growth. Key measures include:
-* *Total Sales Value:* Accumulates volume performance across all dealer categories.
-* *Annual Sales Growth (%):* Year-over-year calculation measuring macro shifts across financial periods.
-
 ## 💡 Key Insights
 - General dealers = 34M of 77M (~44% share) - largest category in SA retail.
 - Steady 2-7% growth 2010-2019, -6% crash in 2020 (COVID lockdowns), recovery from 2021.
