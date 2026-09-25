@@ -1,6 +1,9 @@
-# SA Retail Performance Dashboard - Power BI
+# South African Retail Analysis: Brick-and-Mortar Trends (2005-2025)
 
 Interactive Power BI dashboard analysing South African brick-and-mortar retail trends (2005-2025) from Stats SA P6242.1.
+
+## 🔍 Project Overview
+This business intelligence dashboard analyzes historical brick-and-mortar retail performance trends across South Africa spanning from 2005 to 2025. The goal of this project is to track high-level macroeconomic performance, uncover seasonal sales anomalies, and compare market share distributions across different dealer types.
 
 ## 📊 Dashboard Overview
 ![Dashboard Preview](files/dashboard.png)
@@ -24,13 +27,27 @@ This project analyses brick-and-mortar retail trade to uncover trends, seasonali
 - DAX: Total Sales (R million), YoY Growth %
 - Page-level filter: Exclude 2026 (incomplete). Visual-level filter on Annual Growth to exclude 2005-2009 to ensure accurate YoY calculation.
 
+### 1. Data Transformation (Power Query)
+* *Data Cleaning:* Structured raw Stats SA P6242.1 retail datasets by fixing data types, removing trailing null headers, and resolving date alignment anomalies.
+* *Date Dimension:* Modeled a customized, contiguous Calendar Table to power complex time-intelligence analytics.
+
+### 2. Analytical Calculations (DAX Metrics)
+Engineered key performance metrics to benchmark category growth. Key measures include:
+* *Total Sales Value:* Accumulates volume performance across all dealer categories.
+* *Annual Sales Growth (%):* Year-over-year calculation measuring macro shifts across financial periods.
+
 ## 💡 Key Insights
 - General dealers = 34M of 77M (~44% share) - largest category in SA retail.
 - Steady 2-7% growth 2010-2019, -6% crash in 2020 (COVID lockdowns), recovery from 2021.
 - Strong December seasonality every year.
 
+* *Total Value Trajectory:* The broader brick-and-mortar retail economy reached a core benchmark value of *77M (R million)* across the studied performance window.
+* *Market Share Leaders:* The *General dealers* category acts as the primary volume driver in the sector (tracking at *34.0M), followed closely by *Clothing & Footwear and Other Retail.
+* *Seasonality Factors:* The monthly retail sales trend visual explicitly exposes consistent cyclical peaks occurring regularly at key seasonal points throughout the annual timeline.
+
 ## 📂 Files
 - SA_Business_Performance_Dashboard.pbix - Power BI file
+- dashboard.pdf - PDF
 - dashboard.png - Screenshot
 
 ## 📚 Data Source
