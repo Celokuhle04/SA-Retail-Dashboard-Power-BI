@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analysing South African brick-and-mortar retail trends (2005-2025) from Stats SA P6242.1.
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](files/dashboard.png)
 
 This project analyses brick-and-mortar retail trade to uncover trends, seasonality, and performance across dealer types.
 
