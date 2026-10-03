@@ -6,7 +6,7 @@ Interactive Power BI dashboard analysing South African brick-and-mortar retail t
 This business intelligence dashboard analyzes historical brick-and-mortar retail performance trends across South Africa spanning from 2005 to 2025. The goal of this project is to track high-level macroeconomic performance, uncover seasonal sales anomalies, and compare market share distributions across different dealer types.
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](files/dashboard.png)
+![Dashboard Preview](files/dashboard.jpeg)
 
 [📄Download PDF](files/dashboard.pdf) | [⬇️Download PBIX](files/SA_Business_Performance_Dashboard.pbix)
 
