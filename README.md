@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analysing South African brick-and-mortar retail trends (2005-2025) from Stats SA P6242.1.
 
 ## 🔍 Project Overview
-This business intelligence dashboard analyses historical brick-and-mortar retail performance trends across South Africa covering the period from 2005 to 2025. The goal of this project is to track high-level macroeconomic performance, uncover seasonal sales anomalies, and compare market share distributions across different dealer types.
+This business intelligence dashboard analyses historical brick-and-mortar retail performance trends across South Africa covering the period from 2005 to 2025. The goal of this project is to track overall retail performance, identify seasonal sales patterns and compare sales distributions across different dealer types.
 
 ## 📊 Dashboard Overview
 ![Dashboard Preview](files/dashboard.jpeg)
@@ -15,7 +15,7 @@ This project analyses brick-and-mortar retail trade to uncover trends, seasonali
 **Visuals:**
 - *Total Sales (R77M) KPI* - Total brick-and-mortar sales | Filter: Excluded 2026 (incomplete year)
 - *Total Sales by Dealer Type* - General dealers (R34.0M) dominate, followed by Clothing & Footwear | Filter: Excluded 2026
-- *Annual Sales Growth (%)* - YoY growth 2010-2025 showing COVID -6% drop in 2020 | Filters: Excluded 2005-2009 (early data inconsistent for YoY calculation) + 2026
+- *Annual Sales Growth (%)* - Year-on-year growth from 2010 to 2025, including an approximately 6% decline in 2020 during the COVID-19 period | Filters: Excluded 2005-2009 (early data inconsistent for YoY calculation) + 2026
 - *Monthly Retail Sales Trend* - Monthly sales 2005-2025 with December seasonality | Filter: Excluded 2026
 
 ## 🛠️ Tools
@@ -28,7 +28,7 @@ This project analyses brick-and-mortar retail trade to uncover trends, seasonali
 - Page-level filter: Exclude 2026 (incomplete). Visual-level filter on Annual Growth to exclude 2005-2009 to ensure accurate YoY calculation.
 
 ## 💡 Key Insights
-- General dealers = 34M of 77M (~44% share) - largest category in SA retail.
+- General dealers generated R34M out of R77M in total sales, representing around 44% of the total - largest category in SA retail.
 - Annual retail sales growth was generally between 2% and 7% from 2010 to 2019, followed by a decline of approximately 6% in 2020 during the COVID-19 period. Growth recovered in 2021.
 - Strong December seasonality every year.
 
