@@ -28,7 +28,7 @@ This project analyses brick-and-mortar retail trade to uncover trends, seasonali
 - Page-level filter: Exclude 2026 (incomplete). Visual-level filter on Annual Growth to exclude 2005-2009 to ensure accurate YoY calculation.
 
 ## 💡 Key Insights
-- General dealers generated R34M out of R77M in total sales, representing around 44% of the total - largest category in SA retail.
+- General dealers generated R34 million out of R77 million in total sales, representing around 44% of the total - largest category in SA retail.
 - Annual retail sales growth was generally between 2% and 7% from 2010 to 2019, followed by a decline of approximately 6% in 2020 during the COVID-19 period. Growth recovered in 2021.
 - Strong December seasonality every year.
 
