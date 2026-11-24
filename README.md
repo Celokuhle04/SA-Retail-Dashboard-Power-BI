@@ -2,10 +2,10 @@
 
 Interactive Power BI dashboard analysing South African brick-and-mortar retail trends (2005-2025) from Stats SA P6242.1.
 
-## 🔍 Project Overview
+## Project Overview
 This business intelligence dashboard analyses historical brick-and-mortar retail performance trends across South Africa covering the period from 2005 to 2025. The goal of this project is to track overall retail performance, identify seasonal sales patterns and compare sales distributions across different dealer types.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 ![Dashboard Preview](files/dashboard.jpeg)
 
 [📄Download PDF](files/dashboard.pdf) | [⬇️Download PBIX](files/SA_Business_Performance_Dashboard.pbix)
@@ -18,27 +18,27 @@ This project analyses brick-and-mortar retail trade to uncover trends, seasonali
 - *Annual Sales Growth (%)* - Year-on-year growth from 2010 to 2025, including an approximately 6% decline in 2020 during the COVID-19 period | Filters: Excluded 2005-2009 (early data inconsistent for YoY calculation) + 2026
 - *Monthly Retail Sales Trend* - Monthly sales 2005-2025 with December seasonality | Filter: Excluded 2026
 
-## 🛠️ Tools
+## Tools
 - Power BI Desktop, DAX, Power Query
 
-## 🧹 Data Preparation
+## Data Preparation
 - Source: Stats SA P6242.1 (2005-2025)
 - Cleaned dealer names, created Date table
 - DAX: Total Sales (R million), YoY Growth %
 - Page-level filter: Exclude 2026 (incomplete). Visual-level filter on Annual Growth to exclude 2005-2009 to ensure accurate YoY calculation.
 
-## 💡 Key Insights
+## Key Insights
 - General dealers generated R34 million out of R77 million in total sales, representing around 44% of the total - largest category in SA retail.
 - Annual retail sales growth was generally between 2% and 7% from 2010 to 2019, followed by a decline of approximately 6% in 2020 during the COVID-19 period. Growth recovered in 2021.
 - Strong December seasonality every year.
 
-## 📂 Files
+## Files
 - SA_Business_Performance_Dashboard.pbix - Power BI file
 - dashboard.pdf - PDF
 - dashboard.jpeg - Screenshot
 
-## 📚 Data Source
+## Data Source
 Statistics South Africa - Retail Trade Sales P6242.1
 
-## 👤 Author
+## Author
 *Celokuhle Sandise Ntete* - Junior Data Analyst | Honours Mathematics 
